@@ -1,2 +1,2 @@
-# JS
-Códigos criados enquanto estudo Javascript
+# JS Web
+Códigos criados enquanto estudo programação web com Javascript
